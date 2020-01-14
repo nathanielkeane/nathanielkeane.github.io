@@ -5,14 +5,14 @@ title: MTA
 
 
 <div class="message">
-  Diving into MTA Data
+  Looking at the 1st week of Metis
 </div>
 
-During our whirlwhind first week at Metis my team was tasked with putting together a recommendation for an outreach group focusing on women in STEM. Specifically, we were called on to use the publicly available MTA turnstile data[insert link here] to come up with a strategy to maximize email signups for their canvassing team, with the ultimate goal of pushing attendance to their summer gala.
+During our whirlwhind first week at Metis my team was tasked with putting together a recommendation for an outreach group focusing on women in STEM. Specifically, we were called on to use the publicly available MTA turnstile <a href="http://web.mta.info/developers/turnstile.html">data</a> to come up with a strategy to maximize email signups for their canvassing team, with the ultimate goal of pushing attendance to their summer gala.
 
 ## Data
 
-Given the timing of our target, we opted to examine data from the beginning of Summer 2019, from April->June. A single row looks like this[insert image]. Each entry represents a report on the state of a specific turnstile at the end of a 4 hour period.
+Given the timing of our target, we opted to examine data from the beginning of Summer 2019, from April->June. Each entry represents a report on the state of a specific turnstile at the end of a 4 hour period.
 
 ## Cleaning
 
